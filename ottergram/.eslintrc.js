@@ -5,6 +5,7 @@ module.exports = {
     "extends": "eslint:recommended",
     "rules": {
         "indent": [
+            "no-console": 0,
             "error",
             2
         ],
@@ -22,4 +23,3 @@ module.exports = {
         ]
     }
 };
-
