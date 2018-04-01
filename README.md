@@ -2,13 +2,13 @@
 
 ## Homework 0
 
-    -   create personal GitHub account
-    -   create public repositories
-    -   Install Chrome, Atom, and the Atom plugins described in Chapter 1 of the textbook.
-    -   Have a simple Ottergram web page running through _browser-sync_
-    -   Install new version of Node.js
-    -   Install command-line ESlint tool
-    -   Add **.eslint.js** under root of working repository
+-   create personal GitHub account
+-   create public repositories
+-   Install Chrome, Atom, and the Atom plugins described in Chapter 1 of the textbook.
+-   Have a simple Ottergram web page running through _browser-sync_
+-   Install new version of Node.js
+-   Install command-line ESlint tool
+-   Add **.eslint.js** under root of working repository
 
 ## Homework 1
 
